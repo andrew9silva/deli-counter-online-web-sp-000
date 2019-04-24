@@ -17,4 +17,4 @@ def take_a_number(katz_deli, person)
   postion = array.index(person)
   puts "Welcome, #{name}. You are #{array.index(person)+1} in line."
   return name, position
-  
+end
